@@ -1,2 +1,2 @@
-# NayaZ-shopping-website-Friont-end
+# NayaZ-shopping-website-Front-end
 a shopping website using HTML,CSS,JAVASCRIPT responsive frontend 
